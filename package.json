@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-important-stuff",
+  "version": "1.0.0",
+  "description": "An eslint config focused on catching bugs without being annoying",
+  "main": "eslint-config-important-stuff.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldenning/eslint-config-important-stuff.git"
+  },
+  "author": "Joel Denning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeldenning/eslint-config-important-stuff/issues"
+  },
+  "homepage": "https://github.com/joeldenning/eslint-config-important-stuff#readme"
+}
