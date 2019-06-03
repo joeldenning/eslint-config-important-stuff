@@ -1,6 +1,4 @@
 module.exports = {
-  "parser": "babel-eslint",
-
   "settings": {
     "react": {
       "version": "detect"
