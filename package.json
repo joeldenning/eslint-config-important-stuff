@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-important-stuff",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An eslint config focused on catching bugs without being annoying",
   "main": "eslint-config-important-stuff.js",
   "repository": {
