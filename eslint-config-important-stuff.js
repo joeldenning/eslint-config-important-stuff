@@ -1,8 +1,6 @@
 module.exports = {
-  "settings": {
-    "react": {
-      "version": "detect"
-    },
+  "parserOptions": {
+    "sourceType": "module"
   },
 
   "env": {
